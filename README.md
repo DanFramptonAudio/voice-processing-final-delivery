@@ -8,13 +8,11 @@ The dialogue excerpt is processed for final delivery using compression, EQ, de-e
 
 ## Audio assets
 
-Add the three supplied audio files to this repository and link them here:
+- **Original dialogue used in the comparison:** [Gain-adjusted flat recording](001_Blood%20Hunt_CH1_Excerpt_Flat_NormalisedToMatch.mp3)
+- **Processed master:** [Finished deliverable](001_Blood%20Hunt_CH1_Excerpt_Mastered.mp3)
+- **A/B comparison:** [Alternating original and processed sections](001_Blood%20Hunt_CH1_Excerpt_AB%20Comparison.mp3)
 
-- **Original dialogue** — the untouched source recording.
-- **Processed master** — the finished deliverable.
-- **A/B comparison** — alternating sections of the original and processed dialogue.
-
-The filenames and repository paths are intentionally omitted here; use the actual filenames and paths when uploading the assets.
+The flat recording linked here is gain-adjusted for the comparison. The untouched original is in Project 1.
 
 ## A/B comparison method
 
