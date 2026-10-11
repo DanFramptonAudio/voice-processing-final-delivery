@@ -38,3 +38,8 @@ The processing chain used for the deliverable comprises compression, EQ, de-essi
 ## Purpose
 
 This portfolio piece demonstrates a voice-processing workflow and presents the resulting deliverable with a clearly described A/B comparison. The comparison is intended for practical listening; it is not a controlled loudness-matched test.
+## Additional Example — ElevenLabs-Generated Voiceover
+
+[Listen to the additional example](AB%20File%20with%20ElevenLabs%20Text%20to%20Voice%20Narration.mp3)
+
+This additional example features a voiceover generated with ElevenLabs and edited into the comparison. It is separate from the original-dialogue A/B comparison above, which demonstrates the processing of the original dialogue.
